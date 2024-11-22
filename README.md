@@ -9,7 +9,7 @@
 </div>
 
 <div id="viewprof" align="center" >
-  <img src="https://komarev.com/ghpvc/?username=rompersStomper&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=cmr665&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id="heythere" align="center">
@@ -37,17 +37,17 @@
 ### :trophy: Достижения :
 
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=rompersStomper" alt=""/>
+  <img src="https://github-profile-trophy.vercel.app/?username=cmr665" alt=""/>
 </div>
 
 ### :keyboard: Наиболее используемые языки :
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rompersStomper" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmr665" alt=""/>
 </div>
 
 ### :bar_chart: Статистика активности :
 
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rompersStomper&theme=dracula" alt=""/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cmr665&theme=dracula" alt=""/>
 </div>
