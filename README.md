@@ -18,11 +18,11 @@
 
 ### :banana: Обо мне :
 
-- :brain: факт обо мне
+- :book: факт обо мне
 
-- :woman_pilot: факт обо мне
+- :car: факт обо мне
 
-- :biking_woman: факт обо мне
+- :clown_face: факт обо мне
 
 ### :hammer_and_wrench: Языки и инструменты :
 
